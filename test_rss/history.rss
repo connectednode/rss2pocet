@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Discord Status - Incident History</title>
+    <link>https://discordstatus.com</link>
+    <description>Statuspage</description>
+    <pubDate>Fri, 15 Dec 2023 16:43:36 -0800</pubDate>
+    <item>
+      <title>Degraded and Unavailable Servers</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:01&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue. Users might see errors starting a video stream.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:48&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue. Users might see errors starting a video stream.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:47&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are working to correct an issue that is causing some servers to be degraded and unavailable.&lt;/p&gt;      </description>
+      <pubDate>Fri, 15 Dec 2023 16:02:03 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/g1wscdngpyx9</link>
+      <guid>https://discordstatus.com/incidents/g1wscdngpyx9</guid>
+    </item>
+    <item>
+      <title>We're investigating an elevated error rate which is causing API calls to fail</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:25&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:45&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:05&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We&apos;re aware of an issue where API requests are failing. We believe this to be an upstream issue, tracked here: https://www.cloudflarestatus.com/incidents/z07jsxj4vvzv&lt;/p&gt;      </description>
+      <pubDate>Fri, 15 Dec 2023 15:25:33 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/9xkknljqg6v5</link>
+      <guid>https://discordstatus.com/incidents/9xkknljqg6v5</guid>
+    </item>
+    <item>
+      <title>Some servers lagging/unavailable</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:37&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The unavailable servers should be recovered. The other incident may still be causing impact to some users.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:32&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating a small portion of discord servers being unavailable and/or lagging&lt;/p&gt;      </description>
+      <pubDate>Fri, 15 Dec 2023 14:37:44 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/nyqpx68tydvg</link>
+      <guid>https://discordstatus.com/incidents/nyqpx68tydvg</guid>
+    </item>
+    <item>
+      <title>Elevated API Latency</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:37&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:14&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Latency is back to normal, we are monitoring recovery.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:03&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified the issue are are addressing it now&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;13&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:39&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating elevated API latency&lt;/p&gt;      </description>
+      <pubDate>Wed, 13 Dec 2023 06:37:47 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/8xs1y3krt156</link>
+      <guid>https://discordstatus.com/incidents/8xs1y3krt156</guid>
+    </item>
+    <item>
+      <title>Attachments Broken on Android</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:51&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We have identified and put out a fix for the attachment upload bug.  The fix requires a mobile app update.  If you continue to experience issues, please check for application updates and restart your Discord application.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:01&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are still working on the issue with the Android client (versions 206 and 207) failing to upload attachments.  At this time, updating your client to the latest 206 and 207 will not fix the issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt; 8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:22&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Attachment uploads from a recent version of the Android client (206.16, 207.23) are broken. Updating to the newest version of the app should solve the issue.&lt;/p&gt;      </description>
+      <pubDate>Fri, 08 Dec 2023 13:51:49 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/7hkq2t87qhqx</link>
+      <guid>https://discordstatus.com/incidents/7hkq2t87qhqx</guid>
+    </item>
+    <item>
+      <title>Elevated Clients Crashes and Partial Connection Issue</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:25&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Fix has been fully rolled out.  If you believe your client is still being impacted, restart your client and it should correct the issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:05&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Fix has been deployed, additional mitigations will be required but the client crash rate has returned to nominal levels.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:46&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Oncall Engineering is applying a mitigation for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:27&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An issue has been identified that is causing increased client crashes and in some cases clients that may appear to be connected but are not receiving realtime updates.&lt;br /&gt;&lt;br /&gt;Oncall Engineering is working to address this issue.&lt;/p&gt;      </description>
+      <pubDate>Wed, 15 Nov 2023 18:25:03 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/ftt97ph2523n</link>
+      <guid>https://discordstatus.com/incidents/ftt97ph2523n</guid>
+    </item>
+    <item>
+      <title>Errors logging in to Discord</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:01&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:19&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:10&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified the issue and are applying a fix.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:40&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue that may cause some login attempts to fail.&lt;/p&gt;      </description>
+      <pubDate>Fri, 10 Nov 2023 18:01:55 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/gzt8hgglpf3x</link>
+      <guid>https://discordstatus.com/incidents/gzt8hgglpf3x</guid>
+    </item>
+    <item>
+      <title>Voice connection issues in US Central</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:10&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - We have confirmed that the vendor&apos;s fix has lead to connection success recovery on our side. This incident is resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:00&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - We are beginning to see recovery in our monitoring and are continuing to watch progress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:56&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Unfortunately our previous identification of the issue did not fix the problem. Our vendor believes they have identified the issue and are implementing a fix, so we hope to see improvement soon.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:50&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix. In the meantime we have provisioned capacity on a secondary provider in us-central. &lt;br /&gt;This should help users in us-central connect to voice.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt;10&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;09:12&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We&apos;ve identified an unexpected IP address change made by one of our providers, and are making changes on our end to accommodate. We hope the voice connectivity issues will be resolved shortly.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;22:56&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate the issue with our infrastructure providers.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 9&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:50&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating voice connection issues in us central. So far it seems to be isolated to a small number of ISPs.&lt;/p&gt;      </description>
+      <pubDate>Fri, 10 Nov 2023 13:10:46 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/xv4m0q74pbqj</link>
+      <guid>https://discordstatus.com/incidents/xv4m0q74pbqj</guid>
+    </item>
+    <item>
+      <title>Elevated API Latency and Errors</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:20&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:09&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - The fix is having the desired impact and we are monitoring recovery now.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;05:07&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified an autoscaling issue with our API nodes, we are working around this limit now.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 7&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:13&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue&lt;/p&gt;      </description>
+      <pubDate>Tue, 07 Nov 2023 05:20:28 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/gg98mhfdl7t6</link>
+      <guid>https://discordstatus.com/incidents/gg98mhfdl7t6</guid>
+    </item>
+    <item>
+      <title>Cannot create or join servers.</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:41&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - API has been fully rolled back.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:31&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - And probably a few other things.&lt;br /&gt;&lt;br /&gt;We&apos;re currently investigating the issue and rolling back an API deploy.&lt;/p&gt;      </description>
+      <pubDate>Mon, 06 Nov 2023 15:41:03 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/lz8cv1bxllqq</link>
+      <guid>https://discordstatus.com/incidents/lz8cv1bxllqq</guid>
+    </item>
+    <item>
+      <title>Elevated latency and errors</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:00&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Traffic and latency are fully restored, Discord is fully operational.&lt;br /&gt;&lt;br /&gt;The underlying issue was due to an operation we performed on our authentication database cluster which resulted in too much reduced capacity in the database cluster. We performed some load shedding to enable some traffic to recover, but due to the nature of this cluster&apos;s topology and the incident, only about 50% of our userbase was able to get back online in the interim and we had to wait for the maintenance to complete on the impacted database nodes before we were able to fully restore the service.&lt;br /&gt;&lt;br /&gt;We&apos;ll be following up internally with a postmortem and will plan to publish a public blog post describing the incident and our followups to ensure that this issue cannot recur. Our goal is that Discord just works when you need it; we know many of you (and all of us!) rely on Discord. Please accept our apologies and thank you for your patience today as we worked through this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:45&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - The cluster is healthy and we are now seeing major recovery of users and latency, but it will take another 5-10 minutes for all users to come online. We are continuing to be online and monitor through the recovery.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:43&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The databases that were impacted have come back online and we are beginning to see recovery of the graphs on the authentication service. We will continue to apply rate limits to the service until every user is back online and latency has recovered.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:36&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to bring users online as we are able, while we balance bringing back online some of the impacted database nodes. We appreciate your patience while we work through this.&lt;br /&gt;&lt;br /&gt;The underlying issue was an operation the team performed to upgrade some of the database nodes. We will conduct a full postmortem analysis to understand what went wrong in the operation, but at the moment we are fully focused on bringing the service back online.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:26&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We have approximately 50% of users back in and using Discord, but latency is still elevated. If you still aren&apos;t able to log in, you should be able to get in in the near future. Latency will continue to be elevated until we are able to address the underlying database issue limiting throughput.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:16&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are beginning to allow traffic back into the service and seeing users reconnecting, but we are applying a rate limit so that we can ramp traffic up at a rate that doesn&apos;t overwhelm the authentication service.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:08&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We have identified the underlying issue impacting our authentication service and we are working to resolve it now. We have the relevant teams online and engaged in our incident response process.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 6&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:57&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are aware of an issue impacting Discord latency and errors. The team is online and investigating now.&lt;/p&gt;      </description>
+      <pubDate>Mon, 06 Nov 2023 12:00:23 -0800</pubDate>
+      <link>https://discordstatus.com/incidents/bmx00xx7btkr</link>
+      <guid>https://discordstatus.com/incidents/bmx00xx7btkr</guid>
+    </item>
+    <item>
+      <title>Increased API Errors</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;      </description>
+      <pubDate>Fri, 03 Nov 2023 10:15:20 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/1zl8509cnzns</link>
+      <guid>https://discordstatus.com/incidents/1zl8509cnzns</guid>
+    </item>
+    <item>
+      <title>Increased API Latency</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:34&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 2&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:27&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;      </description>
+      <pubDate>Thu, 02 Nov 2023 15:53:17 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/tys091gqqzhc</link>
+      <guid>https://discordstatus.com/incidents/tys091gqqzhc</guid>
+    </item>
+    <item>
+      <title>Elevated errors adding payment sources</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;16:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var=&apos;date&apos;&gt; 1&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating the issue.&lt;/p&gt;      </description>
+      <pubDate>Wed, 01 Nov 2023 16:12:14 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/npfvk6918qff</link>
+      <guid>https://discordstatus.com/incidents/npfvk6918qff</guid>
+    </item>
+    <item>
+      <title>Twitter links not embedding</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;14:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:04&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating an issue with Twitter links not getting embedded.&lt;/p&gt;      </description>
+      <pubDate>Tue, 31 Oct 2023 14:56:03 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/y823j8mbj7p6</link>
+      <guid>https://discordstatus.com/incidents/y823j8mbj7p6</guid>
+    </item>
+    <item>
+      <title>Elevated Push Notifications Errors (Android)</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;31&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating an issue with an elevated Push Notifications errors in Android devices.&lt;/p&gt;      </description>
+      <pubDate>Tue, 31 Oct 2023 10:49:33 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/r714745zfd9f</link>
+      <guid>https://discordstatus.com/incidents/r714745zfd9f</guid>
+    </item>
+    <item>
+      <title>Third Party Outage</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:39&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;30&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;13:19&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We&apos;re experiencing an outage from a third party service that is affecting performance on Activities.&lt;/p&gt;      </description>
+      <pubDate>Mon, 30 Oct 2023 13:39:01 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/gs7yz7wqx3f7</link>
+      <guid>https://discordstatus.com/incidents/gs7yz7wqx3f7</guid>
+    </item>
+    <item>
+      <title>Color issues while screensharing on Windows with Nvidia Graphics Card</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;17:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This issue is still affecting a small number of users, who are advised to roll back their nvidia driver. &lt;br /&gt;&lt;br /&gt;Find more details here: &lt;br /&gt;https://support.discord.com/hc/en-us/articles/18621944634391&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;20&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating a stream discoloration issue happening while screensharing. So far it looks like a compatibility issue between us and the latest nvidia driver (545.84). We are working with Nvidia on a fix.&lt;br /&gt;Downgrading your Nvidia driver version to version 537.58 or below should resolve the issue. You can download the appropriate Nvidia driver for you system here: https://www.nvidia.com/download/find.aspx &lt;br /&gt;Some instructions on how to rollback your driver installation: https://www.nvidia.com/en-us/drivers/driver-rollback/&lt;/p&gt;      </description>
+      <pubDate>Fri, 27 Oct 2023 17:32:20 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/0ygwvd80vdr8</link>
+      <guid>https://discordstatus.com/incidents/0ygwvd80vdr8</guid>
+    </item>
+    <item>
+      <title>Windows Overlay not working for some users</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;15:41&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The fix has been fully rolled out. Please update to version 1.0.9021.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;27&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and has been partially rolled out.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;26&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;      </description>
+      <pubDate>Fri, 27 Oct 2023 15:41:10 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/4l8c6gthp4v8</link>
+      <guid>https://discordstatus.com/incidents/4l8c6gthp4v8</guid>
+    </item>
+    <item>
+      <title>Discord Availability Implemented</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:23&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:18&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are online and aware of some slowness of the Discord service. The team is responding and investigating.&lt;/p&gt;      </description>
+      <pubDate>Tue, 17 Oct 2023 10:23:02 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/vvqjmfbkqhsv</link>
+      <guid>https://discordstatus.com/incidents/vvqjmfbkqhsv</guid>
+    </item>
+    <item>
+      <title>Creating server events is not working properly</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;17&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;00:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We identified an issue that results in &quot;Missing Access&quot; error when trying to create server events. We&apos;re rolling out a fix.&lt;/p&gt;      </description>
+      <pubDate>Tue, 17 Oct 2023 01:02:55 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/l49l09bzvh0m</link>
+      <guid>https://discordstatus.com/incidents/l49l09bzvh0m</guid>
+    </item>
+    <item>
+      <title>API Errors</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt;11&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;      </description>
+      <pubDate>Wed, 11 Oct 2023 11:21:18 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/0cqnk76b8csc</link>
+      <guid>https://discordstatus.com/incidents/0cqnk76b8csc</guid>
+    </item>
+    <item>
+      <title>Discord MacOS Desktop Client Crashing</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;12:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The new version, 0.0.280, is available. If you switched to use Rosetta with the bad version, it&apos;s now safe to update and then turn off Rosetta.&lt;br /&gt;&lt;br /&gt;If you downloaded the bad version and the app is still crashing for you, please download the update from the website (https://discord.com/api/download?platform=osx).&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - If you&apos;ve downloaded the bad version, please re-download from the website (https://discord.com/api/download?platform=osx)!&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 5&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;10:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are aware of an issue causing the newest version of the Discord MacOS desktop client to crash and are working on a fix.&lt;/p&gt;      </description>
+      <pubDate>Thu, 05 Oct 2023 12:12:17 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/9mnpddv7jtl4</link>
+      <guid>https://discordstatus.com/incidents/9mnpddv7jtl4</guid>
+    </item>
+    <item>
+      <title>Google Play Purchases Broken</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:31&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var=&apos;date&apos;&gt; 3&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;20:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;      </description>
+      <pubDate>Tue, 03 Oct 2023 21:31:19 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/1jy7cx1bndkg</link>
+      <guid>https://discordstatus.com/incidents/1jy7cx1bndkg</guid>
+    </item>
+    <item>
+      <title>Increased API Errors</title>
+      <description>
+&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;08:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - If users are still encountering blocking, please try restarting their Discord apps&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;07:10&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;06:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We&apos;re experiencing unusual traffic spikes that lead to users being temporary blocked and we&apos;re working on mitigating this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var=&apos;date&apos;&gt;29&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;04:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;      </description>
+      <pubDate>Fri, 29 Sep 2023 08:05:26 -0700</pubDate>
+      <link>https://discordstatus.com/incidents/0vb343wz5sq5</link>
+      <guid>https://discordstatus.com/incidents/0vb343wz5sq5</guid>
+    </item>
+  </channel>
+</rss>
